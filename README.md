@@ -1,2 +1,2 @@
-# PepGenx
+BLUECELL PEPTIDES
 PEP website
